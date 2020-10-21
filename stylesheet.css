@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: FontAwesome 5 free;
+}
+
+.title{
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+  font-weight: bold;
+}
+.header-list a{
+  float: left;
+  list-style: none;
+  padding: 33px 20px;
+  color: white;
+}
+
+.header{
+  background-color: teal;
+  height: 90px;
+  min-width:1300px;
+  color: white;
+  position: fixed;
+  top: 0;
+}
+
+.main{
+  height: 600px;
+  width:1300px;
+  margin: 0 auto;
+}
+
+.haikei{
+  background-image:url(SAYAPAKU4745_TP_V.jpg);
+  background-size: cover;
+  padding: 300px 0 100px 0;
+  height: 100%;
+  color: white;
+}
+
+.haikei h1{
+  padding-left: 40px;
+  opacity: 0.8;
+}
+
+.syokai{
+  text-align: center;
+}
+
+.mpv h3{
+  float: left;
+  text-align: center;
+}
+
+footer{
+  margin-top: 30px;
+  height: 150px;
+  min-width: 1300px;
+  border: 2px solid gray;
+}
+
+.btn{
+  color: white;
+  padding: 8px 24px;
+  display: inline-block;
+  border-radius: 4px;
+  margin: 10px;
+  float: left;
+}
+
+.twitter{
+  background-color: #55acee;
+}
+
+.facebook{
+  background-color: #3b5998;
+}
